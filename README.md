@@ -22,7 +22,7 @@ Benefits:
 ## Install Board Support Package for Arduino
 Have a look at https://github.com/amoehl/uino-atmega328pb
 
-
+![alt tag](https://raw.githubusercontent.com/amoehl/uino-hardware/master/super_pro_600.png)
 
 
 
